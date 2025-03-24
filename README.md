@@ -4,10 +4,10 @@
 ## Guilherme Santana
 
 
-- :astronaut: Assistente Administrativo
+- :astronaut: Aprendiz
 - :star2: Análise e Desenvolvimento de Sistemas
 - :computer: Desenvolvedor Front-end
-- :boom: | JavaScript | Java | React
+- :boom: | HTML | CSS | JavaScript | React | Angular 
 
 <hr>
 <br>
